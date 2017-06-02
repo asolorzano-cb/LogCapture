@@ -1,3 +1,3 @@
 # LogCapture
 
-Uploads access logs to HDFS
+Uploads rolled access logs to HDFS
